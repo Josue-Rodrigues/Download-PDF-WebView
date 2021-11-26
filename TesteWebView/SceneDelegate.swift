@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  TesteWebView
 //
-//  Created by Valeria Moreira pereira rodrigues on 13/11/21.
+//  Created by Josue Herrera Rodrigues on 13/11/21.
 //
 
 import UIKit
