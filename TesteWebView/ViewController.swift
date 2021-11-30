@@ -16,6 +16,7 @@ class ViewController: UIViewController, WKNavigationDelegate, WKUIDelegate, UIDo
         
 //      Inserindo a URL de acesso principal da WEB
         let url = URL(string: "https://www.ciser.com.br/categoria/parafusos")
+        print("Testando GITHUB - Branchs")
         webView.load(URLRequest(url: url!))
         webView.allowsBackForwardNavigationGestures = true
     }
